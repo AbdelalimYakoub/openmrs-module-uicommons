@@ -1,1 +1,0 @@
-${ ui.message("coreapps.noAccess") }
